@@ -5,7 +5,7 @@ if (amount < 12) {
 }else{
     console.log('Large number')
 }
-
+// comment
 console.log('this is my first node app')
 
 console.log(__dirname)
